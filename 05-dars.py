@@ -5,7 +5,7 @@ Dasturlash asoslari
 
 #05-dars: STRING (MATN)
 
-Dasturchi: Abdulhay Yaqubov
+Muallif: Abdulhay Yaqubov
 
 Web sahifa: https://python.sariq.dev
 """
