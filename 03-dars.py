@@ -5,7 +5,7 @@ Dasturlash asoslari
 
 #04-dars: 03 PRINT(), SINTEKS VA ARIFMETIK AMALLAR
 
-Dasturchi: Abdulhay Yaqubov
+Muallif: Abdulhay Yaqubov
 
 Web sahifa: https://python.sariq.dev
 """
