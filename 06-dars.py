@@ -5,7 +5,7 @@ Dasturlash asoslari
 
 #06-dars: Sonlar
 
-Dasturchi: Abdulhay Yaqubov
+Muallif: Abdulhay Yaqubov
 
 Web sahifa: https://python.sariq.dev
 """
