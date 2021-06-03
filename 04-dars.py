@@ -6,7 +6,7 @@ Dasturlash asoslari
 
 #04-dars: Oz'garuvchilar
 
-@author: Abdulhay Yaqubov
+Dasturchi: Abdulhay Yaqubov
 
 Web sahifa: https://python.sariq.dev
 """
