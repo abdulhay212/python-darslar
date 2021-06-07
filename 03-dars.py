@@ -3,7 +3,7 @@
 
 Dasturlash asoslari
 
-#04-dars: 03 PRINT(), SINTEKS VA ARIFMETIK AMALLAR
+#03-dars: 03 PRINT(), SINTEKS VA ARIFMETIK AMALLAR
 
 Muallif: Abdulhay Yaqubov
 
